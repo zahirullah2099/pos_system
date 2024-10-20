@@ -1,0 +1,1 @@
+<?php $conn = mysqli_connect('localhost','root','','DMS2') or die('database connection error'. mysqli_connect_error($conn)); ?>
